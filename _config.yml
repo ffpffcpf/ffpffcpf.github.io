@@ -1,10 +1,10 @@
-title: Hexo
+title: 胡论吞枣
 subtitle: ''
-description: ''
+description: 分享和沉淀自己
 keywords: null
-author: John Doe
-language: en
-timezone: ''
+author: 胡汉三
+language: zh-CN
+timezone: 
 url: 'http://example.com'
 root: /
 permalink: ':year/:month/:day/:title/'
